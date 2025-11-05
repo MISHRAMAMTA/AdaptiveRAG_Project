@@ -1,5 +1,5 @@
 # AdaptiveRAG_Project
-# Intelligent RAG Workflow using LangGraph, LangChain, and OpenAI
+# RAG Workflow using LangGraph, LangChain, and OpenAI
 
 This project implements a **Retrieval-Augmented Generation (RAG)** system that dynamically routes queries, retrieves context from vector databases, detects hallucinations, and reformulates questions when necessary — all orchestrated through **LangGraph**.  
 
