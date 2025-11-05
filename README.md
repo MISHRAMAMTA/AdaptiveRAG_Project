@@ -7,7 +7,7 @@ It integrates **LangChain**, **FAISS**, **OpenAI embeddings**, and **structured 
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Dynamic Query Routing:**  
   Determines whether to use local vectorstore or perform a web search using a routing LLM.  
